@@ -3,6 +3,7 @@
 ## General
 * https://github.com/4ndersonLin/awesome-cloud-security
 * https://github.com/aquasecurity/cloud-security-remediation-guides
+* https://hackingthe.cloud/
 
 ## Trainings
 * https://github.com/joseadanof/awesome-cloudnative-trainings
