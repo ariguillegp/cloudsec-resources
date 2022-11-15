@@ -21,6 +21,7 @@
 * https://aws-quickstart.github.io/quickstart-amazon-eks/
 * https://aws-ia.github.io/terraform-aws-eks-blueprints/v4.16.0/
 * https://aws-quickstart.github.io/cdk-eks-blueprints/
+* https://dev.to/aws-builders/eks-blueprints-easier-and-faster-way-to-adopt-kubernetes-4ln9
 #### Labs
 * https://www.wellarchitectedlabs.com/
 * https://github.com/ine-labs/AWSGoat
