@@ -21,3 +21,7 @@
 #### Labs
 * https://www.wellarchitectedlabs.com/
 * https://github.com/ine-labs/AWSGoat
+
+## Azure
+#### Trainings
+* https://github.com/johnthebrit/CertificationMaterials
