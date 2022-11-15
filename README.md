@@ -10,6 +10,8 @@
 
 ## Kubernetes
 * https://owasp.org/www-project-kubernetes-top-ten/
+* https://github.com/magnologan/awesome-k8s-security
+* https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
 
 
 ## AWS
