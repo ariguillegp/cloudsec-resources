@@ -8,6 +8,15 @@
 ## Trainings
 * https://github.com/joseadanof/awesome-cloudnative-trainings
 
+## Podcasts
+* https://cloudsecuritypodcast.tv/
+* https://futureofapplicationsecurity.podbean.com/
+* https://changelog.com/shipit
+* https://www.heavybit.com/library/podcasts/the-kubelist-podcast/
+* https://cloud.withgoogle.com/cloudsecurity/podcast/
+* https://www.devseccon.com/the-secure-developer-podcast
+* https://openobservability.io/
+
 ## Kubernetes
 * https://owasp.org/www-project-kubernetes-top-ten/
 * https://github.com/magnologan/awesome-k8s-security
