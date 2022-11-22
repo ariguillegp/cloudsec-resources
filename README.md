@@ -22,6 +22,10 @@
 * https://github.com/magnologan/awesome-k8s-security
 * https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
 
+## Vulnerable playgrounds
+* https://github.com/tenable/KaiMonkey
+* https://github.com/ine-labs/AWSGoat
+* https://madhuakula.com/kubernetes-goat/
 
 ## AWS
 #### Observability
@@ -33,7 +37,6 @@
 * https://dev.to/aws-builders/eks-blueprints-easier-and-faster-way-to-adopt-kubernetes-4ln9
 #### Labs
 * https://www.wellarchitectedlabs.com/
-* https://github.com/ine-labs/AWSGoat
 
 ## Azure
 #### Trainings
