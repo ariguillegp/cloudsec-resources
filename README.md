@@ -37,6 +37,8 @@
 * https://dev.to/aws-builders/eks-blueprints-easier-and-faster-way-to-adopt-kubernetes-4ln9
 #### Labs
 * https://www.wellarchitectedlabs.com/
+#### Architecture
+* https://aws.amazon.com/blogs/architecture/how-to-select-a-region-for-your-workload-based-on-sustainability-goals/
 
 ## Azure
 #### Trainings
