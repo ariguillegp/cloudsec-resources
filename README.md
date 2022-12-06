@@ -26,6 +26,7 @@
 * https://github.com/tenable/KaiMonkey
 * https://github.com/ine-labs/AWSGoat
 * https://madhuakula.com/kubernetes-goat/
+* https://github.com/ine-labs/GCPGoat
 
 ## AWS
 #### Observability
