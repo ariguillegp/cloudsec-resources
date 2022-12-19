@@ -28,6 +28,9 @@
 * https://madhuakula.com/kubernetes-goat/
 * https://github.com/ine-labs/GCPGoat
 
+## Attacks
+* https://github.com/CyberSecurityUP/Cloud-Security-Attacks
+
 ## AWS
 #### Observability
 * https://aws-observability.github.io/observability-best-practices/
