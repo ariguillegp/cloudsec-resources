@@ -6,6 +6,7 @@
 * https://hackingthe.cloud/
 
 ## Trainings
+* https://learntocloud.guide/?utm_content=bufferb13d5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/phase3/README
 * https://github.com/joseadanof/awesome-cloudnative-trainings
 
 ## Podcasts
