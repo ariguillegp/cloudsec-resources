@@ -28,6 +28,7 @@
 * https://github.com/ine-labs/AWSGoat
 * https://madhuakula.com/kubernetes-goat/
 * https://github.com/ine-labs/GCPGoat
+* https://github.com/ine-labs/AzureGoat
 
 ## Attacks
 * https://github.com/CyberSecurityUP/Cloud-Security-Attacks
