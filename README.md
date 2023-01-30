@@ -4,6 +4,7 @@
 * https://github.com/4ndersonLin/awesome-cloud-security
 * https://github.com/aquasecurity/cloud-security-remediation-guides
 * https://hackingthe.cloud/
+* https://www.cloudvulndb.org/
 
 ## Trainings
 * https://learntocloud.guide/?utm_content=bufferb13d5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/phase3/README
