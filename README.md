@@ -27,6 +27,8 @@
 ## Vulnerable playgrounds
 * https://github.com/tenable/KaiMonkey
 * https://github.com/ine-labs/AWSGoat
+* http://flaws.cloud/
+* http://flaws2.cloud/
 * https://madhuakula.com/kubernetes-goat/
 * https://github.com/ine-labs/GCPGoat
 * https://github.com/ine-labs/AzureGoat
