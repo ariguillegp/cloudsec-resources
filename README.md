@@ -23,6 +23,7 @@
 * https://owasp.org/www-project-kubernetes-top-ten/
 * https://github.com/magnologan/awesome-k8s-security
 * https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist
+* https://github.com/collabnix/kubetools
 
 ## Vulnerable playgrounds
 * https://github.com/tenable/KaiMonkey
@@ -39,15 +40,18 @@
 ## AWS
 #### Observability
 * https://aws-observability.github.io/observability-best-practices/
+
 #### EKS
 * https://aws-quickstart.github.io/quickstart-amazon-eks/
 * https://aws-ia.github.io/terraform-aws-eks-blueprints/v4.16.0/
 * https://aws-quickstart.github.io/cdk-eks-blueprints/
 * https://dev.to/aws-builders/eks-blueprints-easier-and-faster-way-to-adopt-kubernetes-4ln9
+* https://github.com/Rimurutempestx/Amazon-EKS-Breakdown/blob/main/README.md
 #### Labs
 * https://www.wellarchitectedlabs.com/
 #### Architecture
 * https://aws.amazon.com/blogs/architecture/how-to-select-a-region-for-your-workload-based-on-sustainability-goals/
+* https://github.com/aws-samples/service-control-policy-examples
 
 ## Azure
 #### Trainings
